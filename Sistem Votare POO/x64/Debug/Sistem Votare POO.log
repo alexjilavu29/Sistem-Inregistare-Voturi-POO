@@ -1,0 +1,8 @@
+﻿  Sistem Votare POO.cpp
+D:\Scoala\Facultate\UNIBUC FMI\Anul 1\Semestrul 2\Programare Orientata pe Obiecte\PROIECT ALEX+SANDU DONE\Sistem Votare POO\Sistem Votare POO.cpp(145,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Scoala\Facultate\UNIBUC FMI\Anul 1\Semestrul 2\Programare Orientata pe Obiecte\PROIECT ALEX+SANDU DONE\Sistem Votare POO\Sistem Votare POO.cpp(152,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Scoala\Facultate\UNIBUC FMI\Anul 1\Semestrul 2\Programare Orientata pe Obiecte\PROIECT ALEX+SANDU DONE\Sistem Votare POO\Sistem Votare POO.cpp(185,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Scoala\Facultate\UNIBUC FMI\Anul 1\Semestrul 2\Programare Orientata pe Obiecte\PROIECT ALEX+SANDU DONE\Sistem Votare POO\Sistem Votare POO.cpp(192,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Scoala\Facultate\UNIBUC FMI\Anul 1\Semestrul 2\Programare Orientata pe Obiecte\PROIECT ALEX+SANDU DONE\Sistem Votare POO\Sistem Votare POO.cpp(226,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Scoala\Facultate\UNIBUC FMI\Anul 1\Semestrul 2\Programare Orientata pe Obiecte\PROIECT ALEX+SANDU DONE\Sistem Votare POO\Sistem Votare POO.cpp(233,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Sistem Votare POO.vcxproj -> D:\Scoala\Facultate\UNIBUC FMI\Anul 1\Semestrul 2\Programare Orientata pe Obiecte\PROIECT ALEX+SANDU DONE\Sistem Votare POO\x64\Debug\Sistem Votare POO.exe
